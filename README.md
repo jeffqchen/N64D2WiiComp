@@ -1,19 +1,19 @@
 # N64D2WiiComp
 
-<img src="./Pics/01.jpg" width="200px" /> <img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
+<img src="./Pics/01.jpg" width="200px" />
 
 A dongle for connecting a Wii component video cable to a N64Digital modded Nintendo 64
 
-<img src="./Pics/04.jpg" width="200px" />
-
 This adapter allows you to plug a Wii video cable into the AV Multi port into an Nintendo 64. The primary purpose is to allow the use of Wii component video cable on Nintendo 64 consoles modded with N64Digital and UltraHDMI in YUV mode.
+
+<img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
 
 ### N64Digital Dual Output
 
 You can use this adapter in combination with my mini to full HDMI dongle to achive dual output. Details:
 https://www.thingiverse.com/thing:4924766
 
-<img src="./Pics/08.jpg" width="200px" /><img src="./Pics/09.jpg" width="200px" /><img src="./Pics/10.jpg" width="200px" />
+<img src="./Pics/04.jpg" width="200px" /><img src="./Pics/05.jpg" width="200px" /><img src="./Pics/08.jpg" width="200px" /><img src="./Pics/09.jpg" width="200px" /><img src="./Pics/10.jpg" width="200px" />
 
 -----------
 
