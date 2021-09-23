@@ -57,3 +57,12 @@ Solder the two PCBs toghether. Note the "This should NOT be visible" silkscreen 
 <img src="./Pics/07.jpg" width="400px" />
 
 Place the soldered assembly into the printed shell and screw them together.
+
+----------
+## Misc
+
+The composite signal is also connected by default. You can use a composite video cable for the Wii for composite video output.
+
+It is possible to sever the default jumper on the PCB and then bridge Luma or CSync for connecting an RGBs cable.
+
+<img src="./Pics/12.jpg" width="400px" />
