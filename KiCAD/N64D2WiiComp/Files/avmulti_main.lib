@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AVMulti_Main
+#
+DEF AVMulti_Main P 0 40 Y Y 1 F N
+F0 "P" -550 450 50 H V C CNN
+F1 "AVMulti_Main" 0 200 50 H V C CNN
+F2 "" -550 450 50 H I C CNN
+F3 "" -550 450 50 H I C CNN
+DRAW
+S -800 -50 -100 -1900 0 1 0 f
+X Red_from_sub 1 0 -150 100 L 50 50 1 1 O
+X +5V 10 0 -1500 100 L 50 50 1 1 w
+X L+R_from_sub 11 0 -1650 100 L 50 50 1 1 O
+X R 12 0 -1800 100 L 50 50 1 1 O
+X Green 2 0 -300 100 L 50 50 1 1 O
+X CSYNC_from_sub 3 0 -450 100 L 50 50 1 1 O
+X Blue 4 0 -600 100 L 50 50 1 1 O
+X GND_from_sub 5 0 -750 100 L 50 50 1 1 w
+X GND 6 0 -900 100 L 50 50 1 1 w
+X Luma_from_sub 7 0 -1050 100 L 50 50 1 1 O
+X Chroma 8 0 -1200 100 L 50 50 1 1 O
+X CVBS_from_sub 9 0 -1350 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

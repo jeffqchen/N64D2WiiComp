@@ -1,0 +1,124 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Jumper_SolderJumper_3_Bridged12
+#
+DEF Jumper_SolderJumper_3_Bridged12 JP 0 0 Y N 1 F N
+F0 "JP" -100 -100 50 H V C CNN
+F1 "Jumper_SolderJumper_3_Bridged12" 0 110 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ SolderJumper*Bridged12*
+$ENDFPLIST
+DRAW
+A -40 0 40 901 -901 0 1 0 N -40 40 -40 -40
+A -40 0 40 901 -901 0 1 0 F -40 40 -40 -40
+A 40 0 40 -899 899 0 1 0 N 40 -40 40 40
+A 40 0 40 -899 899 0 1 0 F 40 -40 40 40
+S -40 20 -20 -20 0 1 0 F
+S -20 40 20 -40 0 1 0 F
+P 2 0 1 0 -100 0 -80 0 N
+P 2 0 1 0 -40 40 -40 -40 N
+P 2 0 1 0 0 -50 0 -40 N
+P 2 0 1 0 40 40 40 -40 N
+P 2 0 1 0 100 0 80 0 N
+X A 1 -200 0 100 R 50 50 1 1 P
+X C 2 0 -150 100 U 50 50 1 1 I
+X B 3 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Jumper_SolderJumper_3_Open
+#
+DEF Jumper_SolderJumper_3_Open JP 0 0 Y N 1 F N
+F0 "JP" -100 -100 50 H V C CNN
+F1 "Jumper_SolderJumper_3_Open" 0 110 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ SolderJumper*Open*
+$ENDFPLIST
+DRAW
+A -40 0 40 901 -901 0 1 0 N -40 40 -40 -40
+A -40 0 40 901 -901 0 1 0 F -40 40 -40 -40
+A 40 0 40 -899 899 0 1 0 N 40 -40 40 40
+A 40 0 40 -899 899 0 1 0 F 40 -40 40 40
+S -20 40 20 -40 0 1 0 F
+P 2 0 1 0 -100 0 -80 0 N
+P 2 0 1 0 -40 40 -40 -40 N
+P 2 0 1 0 0 -50 0 -40 N
+P 2 0 1 0 40 40 40 -40 N
+P 2 0 1 0 100 0 80 0 N
+X A 1 -200 0 100 R 50 50 1 1 P
+X C 2 0 -150 100 U 50 50 1 1 I
+X B 3 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# WiiComp_AVMulti_Main
+#
+DEF WiiComp_AVMulti_Main P 0 40 Y Y 1 F N
+F0 "P" -550 450 50 H V C CNN
+F1 "WiiComp_AVMulti_Main" 0 200 50 H V C CNN
+F2 "" -550 450 50 H I C CNN
+F3 "" -550 450 50 H I C CNN
+DRAW
+S -800 -50 -100 -1900 0 1 0 f
+X Red_from_sub/Pr 1 0 -150 100 L 50 50 1 1 O
+X +5V 10 0 -1500 100 L 50 50 1 1 w
+X L+R_from_sub 11 0 -1650 100 L 50 50 1 1 O
+X R 12 0 -1800 100 L 50 50 1 1 O
+X Green/Y 2 0 -300 100 L 50 50 1 1 O
+X CSYNC_from_sub 3 0 -450 100 L 50 50 1 1 O
+X Blue/Pb 4 0 -600 100 L 50 50 1 1 O
+X GND_from_sub 5 0 -750 100 L 50 50 1 1 w
+X GND 6 0 -900 100 L 50 50 1 1 w
+X Luma_from_sub 7 0 -1050 100 L 50 50 1 1 O
+X Chroma 8 0 -1200 100 L 50 50 1 1 O
+X CVBS_from_sub 9 0 -1350 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# WiiComp_Wii_AV_Multi
+#
+DEF WiiComp_Wii_AV_Multi P 0 40 Y Y 1 F N
+F0 "P" 0 200 50 H V C CNN
+F1 "WiiComp_Wii_AV_Multi" 0 300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 0 0 600 -2450 0 1 0 f
+X Mode 10 -100 -1450 100 R 50 50 0 0 P
+X B/Pr 11 -100 -1600 100 R 50 50 0 0 P
+X RGB_GND 12 -100 -1750 100 R 50 50 0 0 P
+X +12V 13 -100 -1900 100 R 50 50 0 0 P
+X Data_Line_1 14 -100 -2050 100 R 50 50 0 0 P
+X Data_Line_2 15 -100 -2200 100 R 50 50 0 0 P
+X Data_Line_3 16 -100 -2350 100 R 50 50 0 0 P
+X CVBS_GND 5 -100 -700 100 R 50 50 0 0 P
+X Audio_GND 6 -100 -850 100 R 50 50 0 0 P
+X R/Y 7 -100 -1000 100 R 50 50 0 0 P
+X Mode 8 -100 -1150 100 R 50 50 0 0 P
+X G/Pb 9 -100 -1300 100 R 50 50 0 0 P
+X Audio_L 1 -100 -100 100 R 50 50 1 1 P
+X Audio_R 2 -100 -250 100 R 50 50 1 1 P
+X CVBS 3 -100 -400 100 R 50 50 1 1 P
+X +5V 4 -100 -550 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library

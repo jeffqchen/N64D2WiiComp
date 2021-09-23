@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name WiiComp)(type KiCad)(uri ${KIPRJMOD}/WiiComp.pretty)(options "")(descr ""))
+)

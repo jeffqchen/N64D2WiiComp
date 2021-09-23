@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# WiiComp_AVMulti_SUB
+#
+DEF WiiComp_AVMulti_SUB P 0 40 Y Y 1 F N
+F0 "P" -550 450 50 H V C CNN
+F1 "WiiComp_AVMulti_SUB" 0 200 50 H V C CNN
+F2 "" -550 450 50 H I C CNN
+F3 "" -550 450 50 H I C CNN
+DRAW
+S -450 -50 0 -1750 0 1 0 f
+S 1150 -50 1750 -1750 0 1 0 f
+X Green_to_Main 102 950 -150 200 R 40 40 0 0 O
+X Blue_to_Main 104 950 -450 200 R 40 40 0 0 O
+X GND_to_Main 106 950 -750 200 R 40 40 0 0 w
+X Chroma_to_Main 108 950 -1050 200 R 40 40 0 0 O
+X +5V_to_Main 110 950 -1350 200 R 40 40 0 0 W
+X Audio_R_to_Main 112 950 -1650 200 R 40 40 0 0 O
+X +5V 10 100 -1350 100 L 50 50 1 1 W
+X Audio_R 12 100 -1650 100 L 50 50 1 1 I
+X Green 2 100 -150 100 L 50 50 1 1 I
+X Blue 4 100 -450 100 L 50 50 1 1 I
+X GND 6 100 -750 100 L 50 50 1 1 W
+X Chroma 8 100 -1050 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

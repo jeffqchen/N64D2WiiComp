@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name WiiComp)(type Legacy)(uri ${KIPRJMOD}/WiiComp.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri /Users/jeffchen/KiCAD/Files/power/power.lib)(options "")(descr ""))
+  (lib (name Jumper)(type Legacy)(uri /Users/jeffchen/KiCAD/Files/Jumper/Jumper.lib)(options "")(descr ""))
+)
