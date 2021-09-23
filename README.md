@@ -43,8 +43,10 @@ https://www.thingiverse.com/thing:4924766
 ## Before Assembly
 
 File the Wii end of the PCB that goes into the component cable, so it has a chamfer on both the top and bottom side of the board. This is to ensure it doesn't damage or destroy the contacts inside your Wii component cable.
-
 <img src="./Pics/06.jpg" width="400px" />
+Please note the white line near the end of the golden fingers. It is recommended you file the edge all the way down to the line at 45 degrees.
+<img src="./Pics/11.png" width="400px" />
+
 
 -----------
 
