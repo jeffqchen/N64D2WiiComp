@@ -75,6 +75,8 @@ It is possible to sever the default jumper on the PCB and then bridge Luma or CS
 
 ----------
 ## Special Thanks
+Rainy Day Retro, the one who requested this to be made
+- https://twitter.com/rainydayretro
 
 citrus3000psi, the super famous creator of many console mods
 - https://twitter.com/citrus3000psi
@@ -82,3 +84,6 @@ citrus3000psi, the super famous creator of many console mods
 
 qwertymodo
 - https://twitter.com/qwertymodo
+
+Shank
+- https://twitter.com/ShankMods
