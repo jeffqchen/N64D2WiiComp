@@ -66,6 +66,6 @@ Place the soldered assembly into the printed shell and screw them together.
 
 The composite signal is also connected by default. You can use a composite video cable for the Wii for composite video output.
 
-It is possible to sever the default jumper on the PCB and then bridge Luma or CSync for connecting an RGBs cable.
+It is possible to sever the default jumper on the PCB and then bridge Luma or CSync for connecting an RGBs cable. However there will be extra components required for such cable to function properly.
 
 <img src="./Pics/12.jpg" width="400px" />
