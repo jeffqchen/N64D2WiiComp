@@ -44,7 +44,7 @@ https://www.thingiverse.com/thing:4924766
 
 File the Wii end of the PCB that goes into the component cable, so it has a chamfer on both the top and bottom side of the board. This is to ensure it doesn't damage or destroy the contacts inside your Wii component cable.
 
-<img src="./Pics/06.jpg" width="200px" />
+<img src="./Pics/06.jpg" width="400px" />
 
 -----------
 
@@ -52,6 +52,6 @@ File the Wii end of the PCB that goes into the component cable, so it has a cham
 
 Solder the two PCBs toghether. Note the "This should NOT be visible" silkscreen print and obey. Then solder the SNES header onto the PCB assembly. Note the "Top" print. This indicates the way the notch on the plug should face.
 
-<img src="./Pics/07.jpg" width="200px" />
+<img src="./Pics/07.jpg" width="400px" />
 
 Place the soldered assembly into the printed shell and screw them together.
