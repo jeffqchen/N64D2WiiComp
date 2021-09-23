@@ -19,12 +19,15 @@ https://www.thingiverse.com/thing:4924766
 
 ## Part
 
-SNES Video Plug
-- https://www.aliexpress.com/item/4000049107078.html
+3D Printed shell (also available on GitHub)
+- https://www.thingiverse.com/thing:4945082
 
-PCB
+PCB (also available on GitHub
 - Main: https://oshpark.com/shared_projects/2VKueJ8L
 - Sub: https://oshpark.com/shared_projects/sq9awzi0
+
+SNES Video Plug
+- https://www.aliexpress.com/item/4000049107078.html
 
 Screw and nut
 - M2x12mm (total length 13.8mm) screw and hex nut: https://www.amazon.com/gp/product/B014OO5KQG
@@ -69,3 +72,14 @@ The composite signal is also connected by default. You can use a composite video
 It is possible to sever the default jumper on the PCB and then bridge Luma or CSync for connecting an RGBs cable. However there will be extra components required for such cable to function properly.
 
 <img src="./Pics/12.jpg" width="400px" />
+
+----------
+## Special Thanks
+
+citrus3000psi, the super famous creator of many console mods
+
+https://twitter.com/citrus3000psi
+https://www.black-dog.tech
+
+qwertymodo
+https://twitter.com/qwertymodo
