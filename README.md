@@ -34,7 +34,7 @@ M2x12mm (total length 13.8mm) screw and hex nut
 
 -----------
 
-## Print
+## 3D Print
 
 Print the parts upside down for accurate port dimensions.
 If you prefer better exterior look, print upright with a raft to minimize height error.
