@@ -23,8 +23,8 @@ https://www.thingiverse.com/thing:4924766
 - https://www.thingiverse.com/thing:4945082
 
 PCB (also available on GitHub)
-- Main: https://oshpark.com/shared_projects/2VKueJ8L
-- Sub: https://oshpark.com/shared_projects/sq9awzi0
+- Main: https://oshpark.com/shared_projects/ULsxf6av
+- Sub: https://oshpark.com/shared_projects/Sx7UN638
 
 SNES Video Plug
 - https://www.aliexpress.com/item/4000049107078.html
