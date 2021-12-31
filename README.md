@@ -8,12 +8,20 @@ This adapter allows you to plug a Wii video cable into the AV Multi port into an
 
 <img src="./Pics/01.jpg" width="200px" /> <img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
 
-### N64Digital Dual Output
+## N64Digital Dual Output
 
 You can use this adapter in combination with my mini to full HDMI dongle to achive dual output. Details:
 https://www.thingiverse.com/thing:4924766
 
 <img src="./Pics/04.jpg" width="200px" /><img src="./Pics/05.jpg" width="200px" /><img src="./Pics/08.jpg" width="200px" /><img src="./Pics/09.jpg" width="200px" /><img src="./Pics/10.jpg" width="200px" />
+
+## Variation
+
+### [N64D2VGA](../../../SNES2VGA/tree/main/N64D2VGA)
+
+Output analogue RGBS video and digital HDMI signal at the same time.
+
+<img src="./Pics/20.jpg" width="200px" /> <img src="./Pics/21.jpg" width="200px" />
 
 -----------
 
