@@ -27,18 +27,16 @@ Output analogue RGBS video and digital HDMI signal at the same time.
 
 ## Part
 
-3D Printed shell (also available on GitHub)
-- https://www.thingiverse.com/thing:4945082
+- 3D Printed shell (also available on GitHub) - [Link](https://www.thingiverse.com/thing:4945082)
 
-PCB (also available on GitHub)
-- Main: https://oshpark.com/shared_projects/ULsxf6av
-- Sub: https://oshpark.com/shared_projects/Sx7UN638
+- PCB (also available on GitHub)
+  - [Main](https://oshpark.com/shared_projects/ULsxf6av)
+  - [Sub](https://oshpark.com/shared_projects/Sx7UN638)
 
-SNES Video Plug
-- https://www.aliexpress.com/item/4000049107078.html
 
-M2x12mm (total length 13.8mm) screw and hex nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- Nintendo Video Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)
+
+- M2x12mm (total length 13.8mm) screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 -----------
 
